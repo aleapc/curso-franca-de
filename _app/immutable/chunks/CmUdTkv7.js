@@ -1,0 +1,1 @@
+var e={sku:`curso-franca-de`,buyerLang:`de`,targetLang:`fr`,translatorPair:{sl:`de`,tl:`fr`},destCurrency:`EUR`,homeCurrencies:[],timeZone:`Europe/Paris`};export{e as t};

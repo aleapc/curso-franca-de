@@ -1,0 +1,96 @@
+{
+  "id": "q-b06",
+  "nivel": "basico",
+  "titulo": "Quiz — Vous avez, und dann, was Sie brauchen",
+  "subtitulo": "Ein Baustein an vier Schaltern",
+  "introAudioKey": "fr-b06-q-i",
+  "introPt": "Eine reisende Person durchquert die Ankunftshalle mit einer Eröffnung und sieben verschiedenen Bedürfnissen.",
+  "cenario": "Ankunftshalle, die erste Stunde.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b06-q01",
+      "voz": "target_fr_f",
+      "es": "Bonjour, vous avez du wifi ?",
+      "pt": "Guten Tag, haben Sie WLAN?",
+      "tts": "Bonjour, vous avez du wifi ?"
+    },
+    {
+      "audioKey": "fr-b06-q02",
+      "voz": "target_fr_m",
+      "es": "Bonjour ! Oui, le code est sur le ticket.",
+      "pt": "Guten Tag! Ja, der Code steht auf dem Bon.",
+      "tts": "Bonjour ! Oui, le code est sur le ticket."
+    },
+    {
+      "audioKey": "fr-b06-q03",
+      "voz": "target_fr_f",
+      "es": "Vous avez de la monnaie ?",
+      "pt": "Haben Sie Wechselgeld?",
+      "tts": "Vous avez de la monnaie ?"
+    },
+    {
+      "audioKey": "fr-b06-q04",
+      "voz": "target_fr_m",
+      "es": "Non, pas ici, mais il y en a au niveau deux.",
+      "pt": "Nein, hier nicht, aber auf Ebene zwei gibt es welche.",
+      "tts": "Non, pas ici, mais il y en a au niveau deux."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Was kommt nach «vous avez»?",
+      "opcoes": [
+        "Ein Verb im Infinitiv",
+        "Die Sache, die die Person haben soll",
+        "Eine Zahl",
+        "Ihr Name"
+      ],
+      "correta": 1,
+      "explica": "Der Baustein ist vous avez plus eine Sache: du wifi, une carte SIM, un chargeur, un plan, de la monnaie. Nichts ändert seine Form."
+    },
+    {
+      "pergunta": "Warum fragen, was die Person HAT, statt ob es etwas in der Nähe gibt?",
+      "opcoes": [
+        "Die andere Fassung ist grammatisch falsch",
+        "Am Tresen zielt die natürliche französische Frage auf die Person vor Ihnen",
+        "Sie ist kürzer",
+        "Sie ist förmlicher"
+      ],
+      "correta": 1,
+      "explica": "Zu fragen, was es auf der Welt gibt, ist korrekt, klingt aber nach jemandem, der schon dort wohnt. Am Tresen ist die brauchbare Frage, was diese Person hat."
+    },
+    {
+      "pergunta": "«Non, pas ici, mais il y en a au niveau deux.» Was tun Sie?",
+      "opcoes": [
+        "Danken und weitergehen",
+        "Noch einmal langsamer fragen",
+        "Einen Takt bleiben — das Nein trägt die Adresse des Ja",
+        "Eine andere Sprache versuchen"
+      ],
+      "correta": 2,
+      "explica": "Das erste Wort ist nur die erste Hälfte. Nützlich ist der Rest: die Ebene, das andere Terminal, der Automat, der Scheine nimmt."
+    },
+    {
+      "pergunta": "An einer Café-Kasse hängt ein Kartenlogo, und nirgends steht ein Mindestbetrag. Was heißt das?",
+      "opcoes": [
+        "Die Karte darf bei kleinen Beträgen trotzdem abgelehnt werden",
+        "Der Betrieb hat zugesagt, die Karte für jeden Betrag zu nehmen",
+        "Karte gilt erst ab zehn Euro",
+        "Nur Bargeld"
+      ],
+      "correta": 1,
+      "explica": "Nichts verpflichtet einen französischen Betrieb zur Kartenzahlung, aber eine Ablehnung oder ein Mindestbetrag muss vorher ausgehängt sein. Ein Logo ohne danebenstehenden Mindestbetrag ist die Zusage."
+    },
+    {
+      "pergunta": "Was gehört an jedem Tresen vor den Baustein?",
+      "opcoes": [
+        "S'il vous plaît",
+        "Pardon",
+        "Bonjour",
+        "Merci"
+      ],
+      "correta": 2,
+      "explica": "Bonjour ist die rituelle Eröffnung. Mit dem Anliegen ohne Gruß anzukommen heißt eintreten ohne Klopfen, und die knappe Antwort danach wird leicht missdeutet."
+    }
+  ]
+}

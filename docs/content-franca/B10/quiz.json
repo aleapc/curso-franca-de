@@ -1,0 +1,96 @@
+{
+  "id": "q-b10",
+  "nivel": "basico",
+  "titulo": "Quiz — Die Wörter, die vertraut aussehen — librairie, monnaie, actuellement",
+  "subtitulo": "Fünf Wörter, die nicht sind, wonach sie aussehen",
+  "introAudioKey": "fr-b10-q-i",
+  "introPt": "Eine Reisende fragt nach dem einen, hört das andere und liest die Tür, bevor sie zieht.",
+  "cenario": "Eine kleine Straße um halb zwei nachmittags.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b10-q01",
+      "voz": "target_fr_f",
+      "es": "Pardon, je cherche une librairie.",
+      "pt": "Entschuldigung, ich suche eine Buchhandlung.",
+      "tts": "Pardon, je cherche une librairie."
+    },
+    {
+      "audioKey": "fr-b10-q02",
+      "voz": "target_fr_m",
+      "es": "Juste après le tabac. La bibliothèque, elle, c'est en face.",
+      "pt": "Gleich hinter dem Tabakladen. Die Bibliothek dagegen ist gegenüber.",
+      "tts": "Juste après le tabac. La bibliothèque, elle, c'est en face."
+    },
+    {
+      "audioKey": "fr-b10-q03",
+      "voz": "target_fr_f",
+      "es": "Elle est ouverte ? Vous fermez entre midi et deux ?",
+      "pt": "Ist sie offen? Schließen Sie zwischen zwölf und zwei?",
+      "tts": "Elle est ouverte ? Vous fermez entre midi et deux ?"
+    },
+    {
+      "audioKey": "fr-b10-q04",
+      "voz": "target_fr_m",
+      "es": "Elle est actuellement fermée. Elle rouvre à quatorze heures.",
+      "pt": "Sie ist zurzeit geschlossen. Sie öffnet um vierzehn Uhr wieder.",
+      "tts": "Elle est actuellement fermée. Elle rouvre à quatorze heures."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Was ist une librairie?",
+      "opcoes": [
+        "Eine öffentliche Bibliothek",
+        "Ein Laden, der Bücher verkauft",
+        "Ein Lesesaal im Museum",
+        "Ein Zeitungskiosk"
+      ],
+      "correta": 1,
+      "explica": "Die Ausleihe mit freien Plätzen heißt la bibliothèque."
+    },
+    {
+      "pergunta": "An der Tür steht actuellement fermé. Was heißt das?",
+      "opcoes": [
+        "Für immer geschlossen",
+        "Gerade jetzt geschlossen",
+        "Nie geöffnet",
+        "An Feiertagen geschlossen"
+      ],
+      "correta": 1,
+      "explica": "Actuellement heißt zurzeit, gerade jetzt — nicht dauerhaft."
+    },
+    {
+      "pergunta": "An der Kasse fragt jemand, ob Sie de la monnaie haben. Gemeint ist:",
+      "opcoes": [
+        "Münzen oder ein kleinerer Schein",
+        "Geld im Allgemeinen",
+        "Lieber Karte",
+        "Ausländische Währung"
+      ],
+      "correta": 0,
+      "explica": "Monnaie ist das Wechselgeld. Geld heißt l'argent."
+    },
+    {
+      "pergunta": "Zwei Zeitblöcke an der Tür, mit einer Lücke dazwischen, bedeuten meist:",
+      "opcoes": [
+        "Der Laden hat zu wenig Personal",
+        "Es ist ein Feiertag",
+        "Vormittagsblock, Mittagslücke, Nachmittagsblock — die Grundform",
+        "Man kommt nur nach Termin hinein"
+      ],
+      "correta": 2,
+      "explica": "Um eins sitzt das halbe Land beim Essen. Wer die Lücke auslässt, wirbt mit service continu."
+    },
+    {
+      "pergunta": "Am Schaufenster steht Location de vélos. Das ist:",
+      "opcoes": [
+        "Eine Karte der Radwege",
+        "Ein Fahrradparkplatz",
+        "Ein Fahrradverleih",
+        "Die Adresse eines Fahrradladens"
+      ],
+      "correta": 2,
+      "explica": "Location heißt Vermietung, nicht Lage."
+    }
+  ]
+}

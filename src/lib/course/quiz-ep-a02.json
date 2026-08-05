@@ -1,0 +1,96 @@
+{
+  "id": "q-a02",
+  "nivel": "avancado",
+  "titulo": "Quiz — Worüber sie lachen",
+  "subtitulo": "Fünf Fragen zu flacher Sprechweise und geborgten Witzen",
+  "introAudioKey": "fr-a02-q-i",
+  "introPt": "Ein Tisch neckt, eine Reisende stimmt fröhlich zu und hält sich aus der alten Debatte heraus.",
+  "cenario": "Ein langes Mittagessen, vier Leute und ein Gast.",
+  "dialogo": [
+    {
+      "audioKey": "fr-a02-q01",
+      "voz": "target_fr_m",
+      "es": "Ah bah bravo. Vraiment, bravo.",
+      "pt": "Na, bravo. Wirklich, bravo.",
+      "tts": "Ah bah bravo. Vraiment, bravo."
+    },
+    {
+      "audioKey": "fr-a02-q02",
+      "voz": "target_fr_f",
+      "es": "Et le café au lait à midi ? Avouez !",
+      "pt": "Und der café au lait mittags? Geben Sie's zu!",
+      "tts": "Et le café au lait à midi ? Avouez !"
+    },
+    {
+      "audioKey": "fr-a02-q03",
+      "voz": "target_fr_f",
+      "es": "Coupable ! J'en ai pris deux.",
+      "pt": "Schuldig! Ich hatte zwei.",
+      "tts": "Coupable ! J'en ai pris deux."
+    },
+    {
+      "audioKey": "fr-a02-q04",
+      "voz": "target_fr_f",
+      "es": "Alors là, je ne me prononce pas !",
+      "pt": "Also dazu sage ich gar nichts!",
+      "tts": "Alors là, je ne me prononce pas !"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Bravo, in völlig ebener Stimme gesagt. Was war gemeint?",
+      "opcoes": [
+        "Echtes Lob",
+        "Das Gegenteil von Lob",
+        "Eine Bitte",
+        "Eine Begrüßung"
+      ],
+      "correta": 1,
+      "explica": "Der second degré kehrt allein durch den Ton um. Das Zeichen ist die Flachheit, nicht das Wort."
+    },
+    {
+      "pergunta": "Jemand neckt vor Ihnen eine befreundete Person und hängt je rigole an. Was tut dieser Ausdruck?",
+      "opcoes": [
+        "Er beginnt eine Auseinandersetzung",
+        "Er schließt die Neckerei ab und markiert sie als Zuneigung",
+        "Er bittet Sie mitzumachen",
+        "Er entschuldigt sich bei Ihnen"
+      ],
+      "correta": 1,
+      "explica": "Je rigole, je plaisante und je te charrie schließen alle denselben Zug ab."
+    },
+    {
+      "pergunta": "Der Tisch erzählt Witze über ein Nachbarland. Was ist Ihre Rolle?",
+      "opcoes": [
+        "Einen zurückerzählen — das zeigt, dass Sie sich wohlfühlen",
+        "Widerspruch einlegen",
+        "Mitlachen; nicht sammeln, um es weiterzuerzählen",
+        "Das Thema wechseln"
+      ],
+      "correta": 2,
+      "explica": "Das Genre ist intern. Von einem Gast nacherzählt klingt es wie ein Urteil, nicht wie Mitmachen."
+    },
+    {
+      "pergunta": "Man bittet Sie, eine Auseinandersetzung über das eigene Land zu entscheiden. Bester Zug?",
+      "opcoes": [
+        "Die ehrliche Antwort geben",
+        "Alors là, je ne me prononce pas — und dann fragen, was die anderen denken",
+        "Sagen, Sie hätten zu nichts eine Meinung",
+        "Den Tisch verlassen"
+      ],
+      "correta": 1,
+      "explica": "Gefragt zu werden ist Gastfreundschaft, keine Antwortpflicht. Den Vergleich abzulehnen hält Sie in der Gastrolle."
+    },
+    {
+      "pergunta": "Welcher Witz funktioniert in Ihrem Mund zuverlässig?",
+      "opcoes": [
+        "Einer über Norden oder Süden",
+        "Einer über die dortige Politik",
+        "Einer über Sie selbst — Ihr Französisch, Ihren Appetit, Ihre Essenszeiten",
+        "Einer, den Sie am Nachbartisch gehört haben"
+      ],
+      "correta": 2,
+      "explica": "Selbstironie ist die einzige Lizenz, die Sie vom ersten Tag an mitbringen."
+    }
+  ]
+}

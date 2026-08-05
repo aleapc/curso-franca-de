@@ -1,0 +1,96 @@
+{
+  "id": "q-a07",
+  "nivel": "avancado",
+  "titulo": "Quiz — Willkommen, warten und Zeit zu gehen",
+  "subtitulo": "Fünf Fragen zu den Signalen, die vor den Worten ankommen",
+  "introAudioKey": "fr-a07-q-i",
+  "introPt": "Ein Besucher liest vier Signale und trifft jedes im ersten Takt.",
+  "cenario": "Ein langer Tisch, eine Theke und eine Tür.",
+  "dialogo": [
+    {
+      "audioKey": "fr-a07-q01",
+      "voz": "target_fr_f",
+      "es": "Je vous en prie, allez-y.",
+      "pt": "Bitte sehr, gehen Sie nur.",
+      "tts": "Je vous en prie, allez-y."
+    },
+    {
+      "audioKey": "fr-a07-q02",
+      "voz": "target_fr_m",
+      "es": "Allez, on peut se tutoyer, non ?",
+      "pt": "Komm, wir können uns doch duzen, oder?",
+      "tts": "Allez, on peut se tutoyer, non ?"
+    },
+    {
+      "audioKey": "fr-a07-q03",
+      "voz": "target_fr_f",
+      "es": "Écoutez, non, ça ne va pas être possible.",
+      "pt": "Hören Sie, nein, das wird nicht gehen.",
+      "tts": "Écoutez, non, ça ne va pas être possible."
+    },
+    {
+      "audioKey": "fr-a07-q04",
+      "voz": "target_fr_m",
+      "es": "Bon... allez. Je vais vous laisser, hein.",
+      "pt": "Gut... also. Ich lasse Sie dann mal, ja.",
+      "tts": "Bon... allez. Je vais vous laisser, hein."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Jemand sagt je vous en prie, allez-y. Was verlangt das von Ihnen?",
+      "opcoes": [
+        "Ein Danke und eine Rückfrage",
+        "Bewegung — der Platz gehört Ihnen, also nehmen Sie ihn",
+        "Eine Entschuldigung",
+        "Eine Antwort mit denselben Worten"
+      ],
+      "correta": 1,
+      "explica": "Es ist grünes Licht, keine Höflichkeit, die beantwortet werden will. Noch einmal nachzufragen bremst alle."
+    },
+    {
+      "pergunta": "Wann wechseln Sie bei jemandem von vous zu tu?",
+      "opcoes": [
+        "Nach etwa einer Stunde Gespräch",
+        "Wenn die Person jünger ist als Sie",
+        "Wenn es angeboten wird — und nur bei dieser Person",
+        "Sobald Sie den Vornamen kennen"
+      ],
+      "correta": 2,
+      "explica": "Tu wird angeboten, nicht genommen. Vous bleibt bei allen, die es nicht angeboten haben, auch bei den Kollegen."
+    },
+    {
+      "pergunta": "Man bietet Ihnen den Wechsel an. Beste Antwort?",
+      "opcoes": [
+        "Höflich ablehnen — das ist sicherer",
+        "Avec plaisir, und es bei dieser Person verwenden",
+        "Annehmen und im ganzen Raum duzen",
+        "Ignorieren und beim vous bleiben"
+      ],
+      "correta": 1,
+      "explica": "Herzlich annehmen und eng begrenzt halten. Diese Variante geht nie daneben."
+    },
+    {
+      "pergunta": "Ein schlichtes non, ça ne va pas être possible. Was ist der nützliche nächste Zug?",
+      "opcoes": [
+        "Mit anderen Worten noch einmal fragen",
+        "Sich ausführlich entschuldigen",
+        "Danken und dann fragen, wo es stattdessen geht",
+        "Ohne Antwort weggehen"
+      ],
+      "correta": 2,
+      "explica": "Das Nein schließt diese eine Bitte. Die zweite Frage bringt die andere Theke oder die andere Adresse."
+    },
+    {
+      "pergunta": "Bon... allez, gesagt mit einem Blick ins Leere. Was ist das?",
+      "opcoes": [
+        "Ein neues Thema beginnt",
+        "Die erste Etappe des Abschieds",
+        "Leichter Widerspruch",
+        "Die Bitte um ein Getränk"
+      ],
+      "correta": 1,
+      "explica": "Bon, allez und voilà voilà sind die Schlussworte. Beim ersten aufzustehen liest sich als angenehme Gesellschaft."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-b07",
+  "nivel": "basico",
+  "titulo": "Quiz — Je peux, und dahinter alles, was Sie tun müssen",
+  "subtitulo": "Ein Anfang vom Terminal bis zum Kopfkissen",
+  "introAudioKey": "fr-b07-q-i",
+  "introPt": "Eine Reisende nimmt vier Schalter zwischen Flugzeug und Bett mit einem einzigen Anfang.",
+  "cenario": "Ankunftshalle, dann das Taxi, dann der Hotelempfang.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b07-q01",
+      "voz": "target_fr_f",
+      "es": "Je peux payer par carte ?",
+      "pt": "Kann ich mit Karte zahlen?",
+      "tts": "Je peux payer par carte ?"
+    },
+    {
+      "audioKey": "fr-b07-q02",
+      "voz": "target_fr_m",
+      "es": "La carte, c'est à partir de dix euros. C'est affiché là.",
+      "pt": "Karte geht ab zehn Euro. Es hängt dort aus.",
+      "tts": "La carte, c'est à partir de dix euros. C'est affiché là."
+    },
+    {
+      "audioKey": "fr-b07-q03",
+      "voz": "target_fr_f",
+      "es": "Je peux avoir un reçu ?",
+      "pt": "Kann ich eine Quittung bekommen?",
+      "tts": "Je peux avoir un reçu ?"
+    },
+    {
+      "audioKey": "fr-b07-q04",
+      "voz": "target_fr_m",
+      "es": "Bien sûr. C'est le forfait, le même prix pour toute la zone.",
+      "pt": "Natürlich. Das ist der Pauschalpreis, derselbe Preis für die ganze Zone.",
+      "tts": "Bien sûr. C'est le forfait, le même prix pour toute la zone."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Was kommt nach je peux?",
+      "opcoes": [
+        "Ein Substantiv allein",
+        "Das Verb in seiner Wörterbuchform",
+        "Ein Name",
+        "Eine Zahl"
+      ],
+      "correta": 1,
+      "explica": "Je peux payer, je peux monter, je peux laisser — das Verb ändert seine Form nie."
+    },
+    {
+      "pergunta": "Ein Café in Frankreich winkt Ihre Karte ab und zeigt auf ein Schild. Was passiert da?",
+      "opcoes": [
+        "Das ist rechtswidrig und Sie können darauf bestehen",
+        "Karten anzunehmen ist dort freiwillig, und ein ausgewiesener Mindestbetrag ist erlaubt",
+        "Ausländische Karten sind verboten",
+        "Karten gehen dort nur mittags"
+      ],
+      "correta": 1,
+      "explica": "Es gibt keine Pflicht, Karten zu nehmen, sofern die Bedingung vorher ausgewiesen ist."
+    },
+    {
+      "pergunta": "Was muss immer angenommen werden?",
+      "opcoes": [
+        "Bargeld in Euro",
+        "Jede Debitkarte",
+        "Ein Scheck",
+        "Eine Handy-Wallet"
+      ],
+      "correta": 0,
+      "explica": "Bargeld in Euro ist gesetzliches Zahlungsmittel; die Karte ist die Entscheidung des Betriebs."
+    },
+    {
+      "pergunta": "Der Taxifahrer vom Flughafen schaltet das Taxameter nicht ein. Warum?",
+      "opcoes": [
+        "Er denkt sich einen Preis aus",
+        "Flughafenfahrten laufen zu einem per Präfekturerlass festgelegten Pauschalpreis",
+        "Das Taxameter ist defekt",
+        "Er will nur Bargeld"
+      ],
+      "correta": 1,
+      "explica": "Er deckt jede Adresse im Gebiet ab, Gepäck kostet nichts extra, und eine Quittung ist Pflicht."
+    },
+    {
+      "pergunta": "Welcher dieser Sätze nutzt den Baustein NICHT?",
+      "opcoes": [
+        "Kann ich mein Handy aufladen",
+        "Kann ich meinen Koffer hier lassen",
+        "Wo ist der Ausgang",
+        "Kann ich durch"
+      ],
+      "correta": 2,
+      "explica": "Dafür braucht man où est, und das ist der nächste Teil."
+    }
+  ]
+}

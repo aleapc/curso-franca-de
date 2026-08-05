@@ -1,0 +1,96 @@
+{
+  "id": "q-i08",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Eingeladen an einen fremden Tisch",
+  "subtitulo": "Ja sagen, mit etwas kommen, nach dem Kaffee gehen",
+  "introAudioKey": "fr-i08-q-i",
+  "introPt": "Eine Einladung zum Sonntagsessen, sofort angenommen, und das Angebot, etwas mitzubringen.",
+  "cenario": "Auf dem Gehweg vor einem Café, drei Tage nach dem Kennenlernen.",
+  "dialogo": [
+    {
+      "audioKey": "fr-i08-q01",
+      "voz": "target_fr_m",
+      "es": "Venez déjeuner dimanche, à la maison. Vers une heure.",
+      "pt": "Kommen Sie am Sonntag zum Mittagessen zu uns. Gegen eins.",
+      "tts": "Venez déjeuner dimanche, à la maison. Vers une heure."
+    },
+    {
+      "audioKey": "fr-i08-q02",
+      "voz": "target_fr_f",
+      "es": "Avec grand plaisir, merci de l'invitation. J'apporte quelque chose ?",
+      "pt": "Sehr gerne, danke für die Einladung. Soll ich etwas mitbringen?",
+      "tts": "Avec grand plaisir, merci de l'invitation. J'apporte quelque chose ?"
+    },
+    {
+      "audioKey": "fr-i08-q03",
+      "voz": "target_fr_m",
+      "es": "Mais non, ne prenez rien ! Venez comme vous êtes.",
+      "pt": "Nein, nein, bringen Sie nichts mit! Kommen Sie einfach so.",
+      "tts": "Mais non, ne prenez rien ! Venez comme vous êtes."
+    },
+    {
+      "audioKey": "fr-i08-q04",
+      "voz": "target_fr_f",
+      "es": "J'ai apporté un dessert, j'espère que ça vous plaira.",
+      "pt": "Ich habe ein Dessert mitgebracht, ich hoffe, es gefällt Ihnen.",
+      "tts": "J'ai apporté un dessert, j'espère que ça vous plaira."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "«Ne prenez rien !» bedeutet:",
+      "opcoes": [
+        "Mit leeren Händen kommen, es ist wörtlich gemeint",
+        "Es gehört zum Austausch — Sie kommen trotzdem mit etwas für den Tisch",
+        "Stattdessen Geld mitbringen",
+        "Die Einladung wurde zurückgezogen"
+      ],
+      "correta": 1,
+      "explica": "Die Ablehnung Ihres Angebots gehört zur Form, sie ist nicht die Antwort darauf. Ein Dessert oder eine Flasche passt überall."
+    },
+    {
+      "pergunta": "In der Einladung steht «vers une heure». Wie ernst ist diese Uhrzeit gemeint?",
+      "opcoes": [
+        "Locker — alles bis drei geht in Ordnung",
+        "Die Tür öffnet um eins und gegessen wird um drei",
+        "Ernst: INSEE findet um 13 Uhr das halbe Land am Tisch",
+        "Uhrzeiten werden in Frankreich nie genannt"
+      ],
+      "correta": 2,
+      "explica": "Die Zeitbudgeterhebungen von INSEE setzen das Essen bei 2h22 pro Tag an und zeigen die Mittagsmahlzeit landesweit eng synchronisiert."
+    },
+    {
+      "pergunta": "Alle stehen um den Tisch. Was tun Sie?",
+      "opcoes": [
+        "Fragen — je me mets où ?",
+        "Den nächstbesten Stuhl nehmen",
+        "Vor dem Zimmer warten",
+        "Als Gast am Kopfende sitzen"
+      ],
+      "correta": 0,
+      "explica": "Plätze sind nicht neutral, und jemand sagt Ihnen gerne, wohin Sie sich setzen sollen."
+    },
+    {
+      "pergunta": "Der Trinkspruch ist:",
+      "opcoes": [
+        "Eine kurze Rede des Gastes",
+        "Ein feststehender Satz — Gläser hoch, santé, fertig",
+        "Nur etwas für förmliche Abendessen",
+        "Etwas, das die Gastgeberin allein macht"
+      ],
+      "correta": 1,
+      "explica": "Von einem Gast wird keine Rede erwartet, vom Gastgeber auch nicht."
+    },
+    {
+      "pergunta": "Jemand sagt «on peut se tutoyer, non ?». Was ist passiert?",
+      "opcoes": [
+        "Sie waren unhöflich und werden korrigiert",
+        "Sie müssen jetzt alle im Raum duzen",
+        "Das Du wird angeboten — nehmen Sie an, aber machen Sie nie den ersten Schritt",
+        "Es ist eine Frage zum Essen"
+      ],
+      "correta": 2,
+      "explica": "Vous ist die Grundeinstellung gegenüber jedem Erwachsenen, mit dem Sie nicht aufgewachsen sind; der Wechsel zum Du wird laut vorgeschlagen."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-b08",
+  "nivel": "basico",
+  "titulo": "Quiz — Où est, und die Antwort klein gemacht",
+  "subtitulo": "Nennen Sie den Ort, dann machen Sie die Frage zu",
+  "introAudioKey": "fr-b08-q-i",
+  "introPt": "Eine Reisende fragt nach einem Ort, bekommt dreißig Wörter zurück und macht sie passend.",
+  "cenario": "Vor einem Bahnhof, ein Name auf dem Handy und vier Ausgänge.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b08-q01",
+      "voz": "target_fr_f",
+      "es": "Pardon, où est la gare ?",
+      "pt": "Entschuldigung, wo ist der Bahnhof?",
+      "tts": "Pardon, où est la gare ?"
+    },
+    {
+      "audioKey": "fr-b08-q02",
+      "voz": "target_fr_m",
+      "es": "Vous prenez la deuxième à droite, puis c'est tout droit.",
+      "pt": "Sie nehmen die zweite rechts, dann immer geradeaus.",
+      "tts": "Vous prenez la deuxième à droite, puis c'est tout droit."
+    },
+    {
+      "audioKey": "fr-b08-q03",
+      "voz": "target_fr_f",
+      "es": "C'est par là ? C'est loin ?",
+      "pt": "Ist es da lang? Ist es weit?",
+      "tts": "C'est par là ? C'est loin ?"
+    },
+    {
+      "audioKey": "fr-b08-q04",
+      "voz": "target_fr_m",
+      "es": "Non, c'est à cinq minutes à pied.",
+      "pt": "Nein, das sind fünf Minuten zu Fuß.",
+      "tts": "Non, c'est à cinq minutes à pied."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Was ist das Einzige, was Sie nach où est wählen?",
+      "opcoes": [
+        "Das Verb",
+        "Den Ort",
+        "Die Zeitform",
+        "Die Höflichkeitsstufe"
+      ],
+      "correta": 1,
+      "explica": "Zwei Wörter vorn, und der Ort ist Ihre ganze Entscheidung."
+    },
+    {
+      "pergunta": "Welcher Ort verlangt où sont statt où est?",
+      "opcoes": [
+        "La sortie",
+        "L'entrée",
+        "Les toilettes",
+        "La gare"
+      ],
+      "correta": 2,
+      "explica": "Toiletten stehen im Französischen im Plural, und es ist die einzige Variante, die Sie auf der Reise brauchen."
+    },
+    {
+      "pergunta": "Warum mit c'est par là nachfassen?",
+      "opcoes": [
+        "Es ist höflicher",
+        "Darauf passt nur ein Ja, ein Nein oder eine Hand",
+        "Es klingt flüssiger",
+        "Es fragt nach der Entfernung"
+      ],
+      "correta": 1,
+      "explica": "Eine offene Frage kauft eine offene Antwort; eine geschlossene kauft etwas, das an der Ecke noch hält."
+    },
+    {
+      "pergunta": "Welche drei Wörter lohnt es sich, in jeder Wegbeschreibung aufzufangen?",
+      "opcoes": [
+        "Pardon, merci, bonjour",
+        "À droite, à gauche, tout droit",
+        "Ici, là-bas, voilà",
+        "Première, gare, sortie"
+      ],
+      "correta": 1,
+      "explica": "Rechts, links, geradeaus. Der Rest des Satzes ist Füllung."
+    },
+    {
+      "pergunta": "Sie beginnen auf Englisch und der Austausch wird knapp. Was legt die Literatur zur französischen Höflichkeit nahe?",
+      "opcoes": [
+        "Eine Weigerung, Englisch zu sprechen",
+        "Sie haben die Eröffnungswendung übersprungen, die einen Austausch beginnen lässt",
+        "Abneigung gegen Touristen",
+        "Dort spricht niemand Englisch"
+      ],
+      "correta": 1,
+      "explica": "Bonjour und pardon wirken als Eröffnungsrituale. Diese Lesart ist eine Deutung aus der Literatur, kein gemessener Befund."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-i07",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Das Lob, das in der Küche ankommt",
+  "subtitulo": "Beide Sätze brauchen ein Substantiv darin",
+  "introAudioKey": "fr-i07-q-i",
+  "introPt": "Eine Reisende schickt Lob bis in die Küche und bringt danach einen kalten Teller mit einem Satz in Ordnung.",
+  "cenario": "Mitten im Essen in einem kleinen Speiseraum, ein guter Teller und ein kalter.",
+  "dialogo": [
+    {
+      "audioKey": "fr-i07-q01",
+      "voz": "target_fr_f",
+      "es": "Le canard était excellent, mes compliments au chef.",
+      "pt": "Die Ente war ausgezeichnet, mein Kompliment an den Koch.",
+      "tts": "Le canard était excellent, mes compliments au chef."
+    },
+    {
+      "audioKey": "fr-i07-q02",
+      "voz": "target_fr_m",
+      "es": "Je lui dirai, ça va lui faire plaisir.",
+      "pt": "Ich sage es ihm, das wird ihn freuen.",
+      "tts": "Je lui dirai, ça va lui faire plaisir."
+    },
+    {
+      "audioKey": "fr-i07-q03",
+      "voz": "target_fr_f",
+      "es": "Excusez-moi, c'est froid.",
+      "pt": "Entschuldigung, das ist kalt.",
+      "tts": "Excusez-moi, c'est froid."
+    },
+    {
+      "audioKey": "fr-i07-q04",
+      "voz": "target_fr_m",
+      "es": "Ah pardon, je vous le fais réchauffer tout de suite.",
+      "pt": "Oh, Verzeihung, ich lasse es sofort aufwärmen.",
+      "tts": "Ah pardon, je vous le fais réchauffer tout de suite."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Was lässt Lob bis in die Küche reisen?",
+      "opcoes": [
+        "Es laut sagen",
+        "Das Gericht beim Namen nennen",
+        "Mehr Geld liegen lassen",
+        "Es auf Englisch sagen"
+      ],
+      "correta": 1,
+      "explica": "«Alles war schön» trägt niemand in eine Küche. «Le canard» schon."
+    },
+    {
+      "pergunta": "Wie ist der Satz über den kalten Teller gebaut?",
+      "opcoes": [
+        "Excusez-moi, dann die Tatsache, dann Schluss",
+        "Entschuldigung, die Tatsache, noch eine Entschuldigung",
+        "Ein vollständiger Bericht über den bisherigen Abend",
+        "Nichts sagen und es später aufschreiben"
+      ],
+      "correta": 0,
+      "explica": "Sechs Wörter sind eine vollständige, wohlgeformte Bitte. Je kürzer, desto schneller bewegt sich der Teller."
+    },
+    {
+      "pergunta": "Warum geht es nach hinten los, Entschuldigungen obendrauf zu stapeln?",
+      "opcoes": [
+        "Es gilt als unhöflich",
+        "Es ist zu förmlich für einen Speiseraum",
+        "Es begräbt die Tatsache und signalisiert, dass Sie Streit erwarten",
+        "Es funktioniert nur in Paris"
+      ],
+      "correta": 2,
+      "explica": "Ein nüchterner, freundlicher Satz mit einer Tatsache darin wird dagegen als Information gehört."
+    },
+    {
+      "pergunta": "Die Antwort auf Ihr Lob ist kurz — «je lui dirai» — und er geht weiter. Das heißt:",
+      "opcoes": [
+        "Das Lob ist schlecht angekommen",
+        "Die Antwort ist üblicherweise kurz; die Botschaft geht trotzdem durch",
+        "Sie sollten es lauter wiederholen",
+        "Sie sollten nach dem Koch fragen"
+      ],
+      "correta": 1,
+      "explica": "Der Teil, der zählt, passiert außerhalb Ihres Blickfelds, in der Küche. Die Länge der Antwort misst nichts."
+    },
+    {
+      "pergunta": "Das stärkste Kompliment, das Ihnen zur Verfügung steht, ist:",
+      "opcoes": [
+        "Délicieux",
+        "Ein großes Trinkgeld",
+        "Fünf Sterne im Netz",
+        "On reviendra"
+      ],
+      "correta": 3,
+      "explica": "Ein Haus, das jede Woche dasselbe Viertel satt macht, misst seine Arbeit an den Leuten, die wiederkommen."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-i06",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Gestern, laut erzählt",
+  "subtitulo": "Zwei Wörter vor dem Verb",
+  "introAudioKey": "fr-i06-q-i",
+  "introPt": "Eine Reisende macht aus einem Tag einen Bericht, den der andere weiterhören will.",
+  "cenario": "An einer Theke, am Morgen nach einem Ausflug.",
+  "dialogo": [
+    {
+      "audioKey": "fr-i06-q01",
+      "voz": "target_fr_m",
+      "es": "Alors, vous avez fait quoi hier ?",
+      "pt": "Und, was haben Sie gestern gemacht?",
+      "tts": "Alors, vous avez fait quoi hier ?"
+    },
+    {
+      "audioKey": "fr-i06-q02",
+      "voz": "target_fr_f",
+      "es": "Je suis allée à Lyon et j'ai mangé dans un tout petit restaurant.",
+      "pt": "Ich bin nach Lyon gefahren und habe in einem ganz kleinen Restaurant gegessen.",
+      "tts": "Je suis allée à Lyon et j'ai mangé dans un tout petit restaurant."
+    },
+    {
+      "audioKey": "fr-i06-q03",
+      "voz": "target_fr_m",
+      "es": "Ah bon ? Et c'était comment ?",
+      "pt": "Ach wirklich? Und wie war es?",
+      "tts": "Ah bon ? Et c'était comment ?"
+    },
+    {
+      "audioKey": "fr-i06-q04",
+      "voz": "target_fr_f",
+      "es": "C'était vraiment très bon. Demain, on va à Bordeaux. Vous connaissez ?",
+      "pt": "Es war wirklich sehr gut. Morgen fahren wir nach Bordeaux. Kennen Sie es?",
+      "tts": "C'était vraiment très bon. Demain, on va à Bordeaux. Vous connaissez ?"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Welche Verben nehmen je suis statt j'ai?",
+      "opcoes": [
+        "Alle",
+        "Eine kleine Gruppe rund um Gehen und Ankommen — allé, parti, resté",
+        "Alles, was mit Essen zu tun hat",
+        "Nur Verben, die eine Frau benutzt"
+      ],
+      "correta": 1,
+      "explica": "Fast alles andere läuft über j'ai, und die beiden zu verwechseln ist der Fehler, den man Besuchern am ehesten verzeiht."
+    },
+    {
+      "pergunta": "Eine Frau sagt je suis allée. Verglichen mit allé klingt das:",
+      "opcoes": [
+        "Länger",
+        "Gleich — das zusätzliche e ist Schrift, kein Klang",
+        "Am Ende betont",
+        "Wie ein anderes Verb"
+      ],
+      "correta": 1,
+      "explica": "Schiefgehen kann das also nur auf einer Postkarte."
+    },
+    {
+      "pergunta": "Wie sollten Sie c'était behandeln?",
+      "opcoes": [
+        "Als Zeitform, die man lernt und baut",
+        "Als ein kleines Wort für es war, ganz gelassen",
+        "Als reine Schriftsprache",
+        "Als Frageform"
+      ],
+      "correta": 1,
+      "explica": "C'était très bon, c'était magnifique, c'était trop court. Es hängt sich an alles."
+    },
+    {
+      "pergunta": "Ah bon? mitten in Ihrer Geschichte heißt:",
+      "opcoes": [
+        "Man zweifelt an Ihnen",
+        "Weiter — geben Sie mir das nächste Detail",
+        "Das Thema ist zu",
+        "Man ist anderer Meinung"
+      ],
+      "correta": 1,
+      "explica": "Antworten Sie mit einem Konkretum und hängen Sie eine Frage ans Ende."
+    },
+    {
+      "pergunta": "Warum eine Sache nennen, die Ihnen nicht gefiel?",
+      "opcoes": [
+        "Um wählerisch zu wirken",
+        "Weil ein Bericht ohne Tiefpunkt dem Zuhörer nichts zum Antworten gibt",
+        "Weil man das von Besuchern erwartet",
+        "Um etwas von der Rechnung abzubekommen"
+      ],
+      "correta": 1,
+      "explica": "Je n'ai pas trop aimé ist weich, und genau das macht aus einem Bericht ein Gespräch."
+    }
+  ]
+}

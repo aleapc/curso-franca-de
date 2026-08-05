@@ -1,0 +1,96 @@
+{
+  "id": "q-b02",
+  "nivel": "basico",
+  "titulo": "Quiz — Bonjour zuerst, alles andere danach",
+  "subtitulo": "Die zehn Wörter, die Eröffnung und der Weg hinaus",
+  "introAudioKey": "fr-b02-q-i",
+  "introPt": "Eine Reisende betritt einen kleinen Laden, kauft eine Sache und geht wieder.",
+  "cenario": "Ein kleiner Laden im Viertel, eine Inhaberin hinter dem Tresen.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b02-q01",
+      "voz": "target_fr_f",
+      "es": "Bonjour, madame.",
+      "pt": "Guten Tag, gnädige Frau.",
+      "tts": "Bonjour, madame."
+    },
+    {
+      "audioKey": "fr-b02-q02",
+      "voz": "target_fr_m",
+      "es": "Bonjour ! Je vous écoute.",
+      "pt": "Guten Tag! Ich höre, sagen Sie ruhig.",
+      "tts": "Bonjour ! Je vous écoute."
+    },
+    {
+      "audioKey": "fr-b02-q03",
+      "voz": "target_fr_f",
+      "es": "Oui, s'il vous plaît. Merci, monsieur.",
+      "pt": "Ja, bitte. Danke, mein Herr.",
+      "tts": "Oui, s'il vous plaît. Merci, monsieur."
+    },
+    {
+      "audioKey": "fr-b02-q04",
+      "voz": "target_fr_m",
+      "es": "Merci à vous, au revoir, bonne journée !",
+      "pt": "Ich danke Ihnen, auf Wiedersehen, einen schönen Tag!",
+      "tts": "Merci à vous, au revoir, bonne journée !"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Was kommt zuerst, wenn Sie einen kleinen Laden betreten?",
+      "opcoes": [
+        "Ihre Frage, um niemandem die Zeit zu stehlen",
+        "Bonjour, vor allem anderen",
+        "Ein Winken und dann die Frage auf Englisch",
+        "Gar nichts, bis Sie am Tresen stehen"
+      ],
+      "correta": 1,
+      "explica": "Die Eröffnung bittet um Eintritt in den Raum. Die Frage kommt danach — auf Englisch, wenn das Ihr Mittel ist."
+    },
+    {
+      "pergunta": "Wann wird aus bonjour ein bonsoir?",
+      "opcoes": [
+        "Punkt achtzehn Uhr",
+        "Bei Sonnenuntergang, per Konvention",
+        "Es gibt keine feste Stunde — es ist Gebrauch, und der verschiebt sich",
+        "Erst nach Ladenschluss"
+      ],
+      "correta": 2,
+      "explica": "Eine amtliche Grenze existiert nicht. Geben Sie zurück, was Sie zuerst erreicht; tagsüber ist bonjour sicher."
+    },
+    {
+      "pergunta": "Was bewirkt das angehängte madame oder monsieur?",
+      "opcoes": [
+        "Es klingt steif und altmodisch",
+        "Es ist die gewöhnliche, etwas wärmere Fassung, die man den ganzen Tag hört",
+        "Es weist Sie als Fremde aus",
+        "Es ist gesetzlich vorgeschrieben"
+      ],
+      "correta": 1,
+      "explica": "Im Laden und am Schalter ist es der Normalfall. Es wegzulassen ist kein Versehen, nur schlichter."
+    },
+    {
+      "pergunta": "Was heißt je vous en prie, wenn es zurückkommt?",
+      "opcoes": [
+        "Bitte warten",
+        "Gern geschehen — oder: nur zu, bitte sehr",
+        "Ich verstehe nicht",
+        "An der Kasse zahlen"
+      ],
+      "correta": 1,
+      "explica": "Es antwortet auf merci und heißt zugleich »nur zu«. Sie werden es ständig hören."
+    },
+    {
+      "pergunta": "Was zeigt der EF-Index über Englisch in Frankreich tatsächlich?",
+      "opcoes": [
+        "Den genauen Prozentsatz der Französinnen und Franzosen, die Englisch sprechen",
+        "Dass das Land zugelegt hat und nun im unteren europäischen Mittelfeld liegt",
+        "Dass außerhalb von Paris überall Englisch gesprochen wird",
+        "Dass die Rangliste amtlich beglaubigt ist"
+      ],
+      "correta": 1,
+      "explica": "Die Stichprobe ist selbstselektiv und online erhoben, also ein Trendhinweis und keine Sprecherzählung."
+    }
+  ]
+}

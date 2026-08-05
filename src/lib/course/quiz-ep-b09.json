@@ -1,0 +1,96 @@
+{
+  "id": "q-b09",
+  "nivel": "basico",
+  "titulo": "Quiz — Die Fahrkarte, und ob diese entwertet werden muss",
+  "subtitulo": "Wo der orange Kasten geblieben ist",
+  "introAudioKey": "fr-b09-q-i",
+  "introPt": "Eine Reisende klärt einen Bahnsteig in vier Minuten und fünf Fragen.",
+  "cenario": "Eine Bahnhofshalle, Fahrkarte in der Hand, vier Minuten bis zur Abfahrt.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b09-q01",
+      "voz": "target_fr_f",
+      "es": "Je dois valider ?",
+      "pt": "Muss ich entwerten?",
+      "tts": "Je dois valider ?"
+    },
+    {
+      "audioKey": "fr-b09-q02",
+      "voz": "target_fr_m",
+      "es": "Sur le TGV, non. Mais sur le Transilien, oui, il faut valider.",
+      "pt": "Im TGV nein. Aber im Transilien ja, da muss man entwerten.",
+      "tts": "Sur le TGV, non. Mais sur le Transilien, oui, il faut valider."
+    },
+    {
+      "audioKey": "fr-b09-q03",
+      "voz": "target_fr_f",
+      "es": "Où est la voie douze ?",
+      "pt": "Wo ist Gleis zwölf?",
+      "tts": "Où est la voie douze ?"
+    },
+    {
+      "audioKey": "fr-b09-q04",
+      "voz": "target_fr_m",
+      "es": "Voie douze, départ à quatorze heures trente-cinq.",
+      "pt": "Gleis zwölf, Abfahrt um vierzehn Uhr fünfunddreißig.",
+      "tts": "Voie douze, départ à quatorze heures trente-cinq."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Seit wann ist das Entwerten in SNCF-Zügen nicht mehr vorgeschrieben?",
+      "opcoes": [
+        "1. Januar 2023",
+        "1. Januar 2025",
+        "2. Juni 2025",
+        "Es war nie vorgeschrieben"
+      ],
+      "correta": 0,
+      "explica": "Rund dreitausend Automaten kamen raus — 725 bei TGV/Intercités und 2.468 bei TER."
+    },
+    {
+      "pergunta": "Wo gilt die Entwertungspflicht weiter?",
+      "opcoes": [
+        "Überall, die Änderung wurde zurückgenommen",
+        "Transilien, TER Sud PACA und TER Nouvelle-Aquitaine",
+        "Nur im TGV",
+        "Nur in Pariser Metrostationen"
+      ],
+      "correta": 1,
+      "explica": "Also die Nahverkehrszüge um Paris, die provenzalische Küste und die Gegend um Bordeaux."
+    },
+    {
+      "pergunta": "Was kostet seit dem 2. Juni 2025 eine gültige, aber nicht entwertete Fahrkarte?",
+      "opcoes": [
+        "5 €",
+        "15 €",
+        "50 €",
+        "70 €"
+      ],
+      "correta": 1,
+      "explica": "Von 5 € auf 15 € gestiegen; ganz ohne Fahrschein sind es 70 € sofort vor Ort."
+    },
+    {
+      "pergunta": "Was bedeutet voie in einer Durchsage?",
+      "opcoes": [
+        "Der Wagen",
+        "Das Gleis",
+        "Die Linie",
+        "Der Ausgang"
+      ],
+      "correta": 1,
+      "explica": "Fangen Sie das Wort und die Zahl auf und lassen Sie den Rest des Satzes ziehen."
+    },
+    {
+      "pergunta": "Was hat den Pariser Carnet ersetzt?",
+      "opcoes": [
+        "Ein einziger Fahrschein für alles",
+        "Zwei Fahrscheinarten — Métro-Zug-RER und Bus-Tram — auf einer Navigo Easy",
+        "Nur eine Handy-App",
+        "Nichts, Papierfahrscheine laufen weiter"
+      ],
+      "correta": 1,
+      "explica": "Seit dem 1. Januar 2025. Alte Papierfahrscheine lassen sich bis zum 14. Januar 2027 am Schalter umtauschen."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "q-b04",
+  "nivel": "basico",
+  "titulo": "Quiz — Vier Dinge, die vor dem Abflug ablaufen",
+  "subtitulo": "Der Anruf vor dem Flug und die drei Fristen dahinter",
+  "introAudioKey": "fr-b04-q-i",
+  "introPt": "Eine reisende Person schließt eine Woche vor der Abreise die Lücken in ihrer Buchung.",
+  "cenario": "Ein Anruf im Hotel, vom Küchentisch aus.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b04-q01",
+      "voz": "target_fr_f",
+      "es": "Bonjour, j'appelle pour confirmer ma réservation.",
+      "pt": "Guten Tag, ich rufe an, um meine Reservierung zu bestätigen.",
+      "tts": "Bonjour, j'appelle pour confirmer ma réservation."
+    },
+    {
+      "audioKey": "fr-b04-q02",
+      "voz": "target_fr_m",
+      "es": "Très bien. Douze rue Saint-Antoine, troisième étage.",
+      "pt": "Sehr gut. Rue Saint-Antoine zwölf, dritter Stock.",
+      "tts": "Très bien. Douze rue Saint-Antoine, troisième étage."
+    },
+    {
+      "audioKey": "fr-b04-q03",
+      "voz": "target_fr_f",
+      "es": "Vous pouvez me l'écrire ?",
+      "pt": "Können Sie mir das aufschreiben?",
+      "tts": "Vous pouvez me l'écrire ?"
+    },
+    {
+      "audioKey": "fr-b04-q04",
+      "voz": "target_fr_m",
+      "es": "Bien sûr, je vous envoie ça par mail.",
+      "pt": "Natürlich, ich schicke Ihnen das per Mail.",
+      "tts": "Bien sûr, je vous envoie ça par mail."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Was bringt Ihnen die EHIC in Frankreich tatsächlich?",
+      "opcoes": [
+        "Vollen Schutz, wie eine Reiseversicherung",
+        "Staatliche Versorgung zu denselben Bedingungen wie für Einheimische",
+        "Eine kostenlose Privatklinik",
+        "Den Rückflug, wenn Sie krank werden"
+      ],
+      "correta": 1,
+      "explica": "Sie stellt Sie innerhalb des staatlichen Systems auf die Bedingungen von Einheimischen. Der ticket modérateur, zwanzig bis dreißig Prozent, bleibt trotzdem bei Ihnen — deshalb ist die Versicherung ein eigener Kauf und keine Alternative."
+    },
+    {
+      "pergunta": "Sie finden in einer Schublade eine Handvoll alter Papiertickets für die Métro. Was nun?",
+      "opcoes": [
+        "Sie funktionieren weiterhin an der Schranke",
+        "Gar nichts — sie sind wertlos",
+        "Ein besetzter Schalter tauscht sie bis Januar 2027 auf eine Navigo Easy um, bis zu fünf pro Tag",
+        "Jeder Automat rechnet sie um"
+      ],
+      "correta": 2,
+      "explica": "Paris hat das Papier-carnet 2025 beendet. Der Tausch läuft am besetzten Schalter, nicht am Automaten, und das Fenster schließt am 14. Januar 2027."
+    },
+    {
+      "pergunta": "Warum «Quelle est l'adresse exacte ?» schon vor dem Abflug fragen?",
+      "opcoes": [
+        "Es ist höflicher, als bei der Ankunft zu fragen",
+        "Ein Hotelname ist nicht navigierbar — Fahrer und Offline-Karte brauchen Straße und Hausnummer",
+        "Hotels berechnen weniger, wenn man bestätigt",
+        "Das Buchungsportal verlangt es"
+      ],
+      "correta": 1,
+      "explica": "Der Name ist eine Marke. Mit Straße und Hausnummer können eine fremde Person, ein Fahrer oder eine gespeicherte Karte ohne Netz sofort etwas anfangen."
+    },
+    {
+      "pergunta": "Wofür ist «Vous pouvez me l'écrire ?» da?",
+      "opcoes": [
+        "Um die Rechnung zu verlangen",
+        "Um zu bitten, langsamer zu sprechen",
+        "Um es schriftlich zu bekommen, damit es Ihr Gedächtnis überlebt",
+        "Um ein anderes Zimmer zu bitten"
+      ],
+      "correta": 2,
+      "explica": "Eine am Telefon gesagte Adresse überlebt den Weg zum Taxistand nicht. Aufgeschrieben schon."
+    },
+    {
+      "pergunta": "Barzahlungen an Betriebe in Frankreich sind gedeckelt. Welche Grenze gilt für Reisende, die belegen können, dort nicht steuerlich ansässig zu sein?",
+      "opcoes": [
+        "1 000 €",
+        "3 000 €",
+        "15 000 €",
+        "Es gibt überhaupt keine Grenze"
+      ],
+      "correta": 2,
+      "explica": "Artikel D112-3: 1 000 € für alle mit steuerlichem Wohnsitz in Frankreich, 15 000 € für Personen ohne diesen Wohnsitz, die nicht zu beruflichen Zwecken kaufen. Die höhere Grenze hängt am Steuerwohnsitz, nicht am Reisestatus."
+    }
+  ]
+}

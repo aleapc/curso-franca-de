@@ -1,0 +1,96 @@
+{
+  "id": "q-i05",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Die fünf Fragen, die Ihnen die ganze Woche gestellt werden",
+  "subtitulo": "Fünf Antworten und eine Absage",
+  "introAudioKey": "fr-i05-q-i",
+  "introPt": "Eine Reisende kommt an der Theke durch das Standardset und hält sich aus dem einen Streit heraus, der nie ihrer war.",
+  "cenario": "Eine Theke am Vormittag, einen Hocker entfernt ein Stammgast.",
+  "dialogo": [
+    {
+      "audioKey": "fr-i05-q01",
+      "voz": "target_fr_m",
+      "es": "Vous êtes d'où, vous ? Et vous restez combien de temps ?",
+      "pt": "Und Sie, woher kommen Sie? Und wie lange bleiben Sie?",
+      "tts": "Vous êtes d'où, vous ? Et vous restez combien de temps ?"
+    },
+    {
+      "audioKey": "fr-i05-q02",
+      "voz": "target_fr_f",
+      "es": "Je viens de Londres. Je reste cinq jours, c'est la première fois que je viens ici.",
+      "pt": "Ich komme aus London. Ich bleibe fünf Tage, es ist das erste Mal, dass ich herkomme.",
+      "tts": "Je viens de Londres. Je reste cinq jours, c'est la première fois que je viens ici."
+    },
+    {
+      "audioKey": "fr-i05-q03",
+      "voz": "target_fr_m",
+      "es": "Paris, franchement, c'est plus la France. La vraie France, c'est ici.",
+      "pt": "Paris, ehrlich, das ist kein Frankreich mehr. Das echte Frankreich ist hier.",
+      "tts": "Paris, franchement, c'est plus la France. La vraie France, c'est ici."
+    },
+    {
+      "audioKey": "fr-i05-q04",
+      "voz": "target_fr_f",
+      "es": "Je découvre encore, je ne peux pas comparer. Et vous, vous êtes d'ici ?",
+      "pt": "Ich entdecke noch, ich kann nicht vergleichen. Und Sie, sind Sie von hier?",
+      "tts": "Je découvre encore, je ne peux pas comparer. Et vous, vous êtes d'ici ?"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Warum mit einer Stadt antworten statt mit einem Land?",
+      "opcoes": [
+        "Es ist genauer",
+        "Eine Stadt gibt dem anderen etwas zum Anknüpfen",
+        "Länder gelten als unhöflich",
+        "Es macht den Satz kürzer"
+      ],
+      "correta": 1,
+      "explica": "Eine Tatsache beendet den Zug, eine Stadt reicht einen Anknüpfungspunkt herüber. Und dann et vous anhängen."
+    },
+    {
+      "pergunta": "Wer c'est la première fois que je viens ici sagt, bekommt meist:",
+      "opcoes": [
+        "Höhere Preise",
+        "Anweisungen — wo man isst, welche Straße, an welchem Tag der Markt läuft",
+        "Einen Wechsel ins Englische",
+        "Ein kürzeres Gespräch"
+      ],
+      "correta": 1,
+      "explica": "Eine Vertrautheit zu behaupten, die man nicht hat, macht diese Tür zu, und dahinter liegt nichts, was das wert wäre."
+    },
+    {
+      "pergunta": "Vous vous débrouillez très bien, nach vier Wörtern Französisch gesagt, ist:",
+      "opcoes": [
+        "Eine Einschätzung Ihres Niveaus",
+        "Die übliche Ermutigung weiterzumachen",
+        "Sanfter Spott",
+        "Ein Wink, auf Englisch zu wechseln"
+      ],
+      "correta": 1,
+      "explica": "Die einzige falsche Antwort ist, genau in diesem Moment auf Englisch zu wechseln."
+    },
+    {
+      "pergunta": "Jemand besteht darauf, die Hauptstadt sei nicht das echte Land. Ihr Zug:",
+      "opcoes": [
+        "Herzlich zustimmen, das ist freundlicher",
+        "Sagen, dass Sie noch entdecken und nicht vergleichen können, und nach dem Ort des anderen fragen",
+        "Die Gegenseite verteidigen",
+        "Auf das Wetter wechseln"
+      ],
+      "correta": 1,
+      "explica": "Es ist ihr Streit und er ist weit älter als Ihre Reise. Zustimmung von einem Besucher wiegt nichts und wird schlecht weitergetragen."
+    },
+    {
+      "pergunta": "Was stützt der EF-Index über Englisch in Frankreich wirklich?",
+      "opcoes": [
+        "Dass ein bestimmter Prozentsatz der Menschen Englisch spricht",
+        "Dass Frankreich sich verbessert hat und im unteren europäischen Mittelfeld liegt",
+        "Dass an jeder Theke Englisch gesprochen wird",
+        "Gar nichts"
+      ],
+      "correta": 1,
+      "explica": "Die Stichprobe ist nach EFs eigener Aussage selbstselektiert und online, sie lässt sich also nicht als Anteil der Bevölkerung lesen."
+    }
+  ]
+}

@@ -31,18 +31,18 @@ const ordemDoSlot = new Map(contrato.slots.map((s, i) => [s.id, i]));
 // Cor e descrição são apresentação, não conteúdo — ficam aqui, únicas por módulo.
 const APRESENTACAO = {
   basico: {
-    nome: 'Grundstufe · Ich komme klar',
-    descricao: 'Das Spanisch, mit dem du durch den Tag kommst: ankommen, bestellen, bezahlen, unterwegs sein und Hilfe bekommen.',
+    nome: 'Basic · Get by',
+    descricao: 'The Spanish that gets the day done: arriving, ordering, paying, moving, and getting help.',
     cor: 'terracota'
   },
   intermediario: {
-    nome: 'Mittelstufe · Ich genieße',
-    descricao: 'Iss, wo sie essen, wann sie essen und zu dem Preis, den sie zahlen.',
+    nome: 'Intermediate · Get the good stuff',
+    descricao: 'Eat where they eat, when they eat, at the price they pay.',
     cor: 'oliva'
   },
   avancado: {
-    nome: 'Oberstufe · Ich lese den Raum',
-    descricao: 'Der Humor, der Stolz, der alte Streit – und was ihr Schweigen bedeutet.',
+    nome: 'Advanced · Read the room',
+    descricao: 'The humour, the pride, the old argument, and what their silence means.',
     cor: 'indigo'
   }
 };

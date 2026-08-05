@@ -1,0 +1,96 @@
+{
+  "id": "q-i03",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Der Teller, den Sie nicht bestellt hätten",
+  "subtitulo": "Drei Wörter auf der Tafel, und was jedes wert ist",
+  "introAudioKey": "fr-i03-q-i",
+  "introPt": "Eine Reisende kommt in drei Fragen von der gedruckten Karte auf die Tafel.",
+  "cenario": "Um halb eins in einem kleinen Lokal, Kreidetafel draußen, gedruckte Karte drinnen.",
+  "dialogo": [
+    {
+      "audioKey": "fr-i03-q01",
+      "voz": "target_fr_f",
+      "es": "Vous avez un plat du jour ?",
+      "pt": "Haben Sie ein Tagesgericht?",
+      "tts": "Vous avez un plat du jour ?"
+    },
+    {
+      "audioKey": "fr-i03-q02",
+      "voz": "target_fr_m",
+      "es": "Aujourd'hui, c'est joue de bœuf, avec une purée maison.",
+      "pt": "Heute ist es Rinderbacke mit hausgemachtem Püree.",
+      "tts": "Aujourd'hui, c'est joue de bœuf, avec une purée maison."
+    },
+    {
+      "audioKey": "fr-i03-q03",
+      "voz": "target_fr_f",
+      "es": "C'est à base de quoi ?",
+      "pt": "Woraus ist das gemacht?",
+      "tts": "C'est à base de quoi ?"
+    },
+    {
+      "audioKey": "fr-i03-q04",
+      "voz": "target_fr_f",
+      "es": "Alors je vais prendre ça.",
+      "pt": "Dann nehme ich das.",
+      "tts": "Alors je vais prendre ça."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Warum steht der plat du jour meist draußen auf der Tafel?",
+      "opcoes": [
+        "Werbegewohnheit",
+        "Sein Preis steht auf der Liste, die außen aushängen muss",
+        "Weil er immer das Billigste ist",
+        "Weil die gedruckte Karte veraltet ist"
+      ],
+      "correta": 1,
+      "explica": "Er steht auf derselben Aushangliste wie Kaffee, Bier und Sandwich, in Zeichen von mindestens 1,5 cm."
+    },
+    {
+      "pergunta": "«Fait maison» bescheinigt:",
+      "opcoes": [
+        "Die Herkunft der Zutaten",
+        "Dass das Gericht vor Ort aus Rohprodukten verarbeitet wurde",
+        "Dass das Restaurant ein Familienbetrieb ist",
+        "Dass das Gericht eine regionale Spezialität ist"
+      ],
+      "correta": 1,
+      "explica": "Verarbeitung im Haus, mit einer kurzen abschließenden Liste geduldeter Zutaten. Nicht Herkunft, nicht Qualität."
+    },
+    {
+      "pergunta": "Auf der Karte ist kein fait-maison-Logo. Das sagt Ihnen:",
+      "opcoes": [
+        "Nichts — die Angabe ist seit 2015 freiwillig",
+        "Die Küche wärmt Lieferungen auf",
+        "Das Lokal hat die Zertifizierung verloren",
+        "Alles ist zugekauft"
+      ],
+      "correta": 0,
+      "explica": "Das Fehlen beweist nichts. Fragen Sie nach dem Gericht vor Ihnen, statt die Karte nach Abzeichen abzusuchen."
+    },
+    {
+      "pergunta": "«Formule» ist:",
+      "opcoes": [
+        "Rechtlich als zwei Gänge definiert",
+        "Rechtlich als drei Gänge definiert",
+        "Handelsbrauch — jedes Haus setzt seinen eigenen",
+        "Dasselbe wie plat du jour"
+      ],
+      "correta": 2,
+      "explica": "Eine rechtliche Definition von menu oder formule ließ sich nicht finden. Fragen Sie vor der Bestellung, was die Zahl kauft."
+    },
+    {
+      "pergunta": "Welche Frage öffnet einen Namen, den Sie nicht kennen?",
+      "opcoes": [
+        "C'est bon ?",
+        "C'est à base de quoi ?",
+        "C'est cher ?",
+        "C'est typique ?"
+      ],
+      "correta": 1,
+      "explica": "Die Antwort kommt konkret zurück, und genau das brauchen Sie, um zu entscheiden."
+    }
+  ]
+}

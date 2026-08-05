@@ -1,0 +1,96 @@
+{
+  "id": "q-i04",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Eine Runde, und der Preis stand an der Tür",
+  "subtitulo": "Theke, Saal, Terrasse — und wer zahlt",
+  "introAudioKey": "fr-i04-q-i",
+  "introPt": "Zwei Reisende kommen durch Aperitif, Runde und Abschied, ohne eine einzige Überraschung.",
+  "cenario": "Ein Café im Viertel um halb neun, die Terrasse voll.",
+  "dialogo": [
+    {
+      "audioKey": "fr-i04-q01",
+      "voz": "target_fr_m",
+      "es": "Vous prenez quelque chose ? Au comptoir c'est moins cher, si vous voulez.",
+      "pt": "Nehmen Sie etwas? An der Theke ist es billiger, wenn Sie mögen.",
+      "tts": "Vous prenez quelque chose ? Au comptoir c'est moins cher, si vous voulez."
+    },
+    {
+      "audioKey": "fr-i04-q02",
+      "voz": "target_fr_f",
+      "es": "Deux demis, s'il vous plaît. Vous prenez la carte ?",
+      "pt": "Zwei kleine Bier, bitte. Nehmen Sie Karte?",
+      "tts": "Deux demis, s'il vous plaît. Vous prenez la carte ?"
+    },
+    {
+      "audioKey": "fr-i04-q03",
+      "voz": "target_fr_m",
+      "es": "La carte, c'est à partir de dix euros. C'est affiché à l'entrée.",
+      "pt": "Karte ab zehn Euro. Das steht am Eingang.",
+      "tts": "La carte, c'est à partir de dix euros. C'est affiché à l'entrée."
+    },
+    {
+      "audioKey": "fr-i04-q04",
+      "voz": "target_fr_f",
+      "es": "Très bien, c'est ma tournée. Ça fait combien en tout ?",
+      "pt": "Gut, diese Runde geht auf mich. Was macht das zusammen?",
+      "tts": "Très bien, c'est ma tournée. Ça fait combien en tout ?"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Wo finden Sie den Preis für ein Bier, bevor Sie hineingehen?",
+      "opcoes": [
+        "Nirgends, man fragt drinnen",
+        "Auf einer Tafel draußen, gesetzlich ausgehängt",
+        "Hinterher auf dem Bon",
+        "Nur auf der Getränkekarte am Tisch"
+      ],
+      "correta": 1,
+      "explica": "Eine feste Getränkeliste und der plat du jour müssen außen aushängen, in mindestens 1,5 cm hohen Zeichen."
+    },
+    {
+      "pergunta": "Theke, Saal und Terrasse haben für dasselbe Glas verschiedene Preise. Das ist:",
+      "opcoes": [
+        "Verboten",
+        "Zulässig, solange die Tarife ausgehängt sind",
+        "Nur in der Hauptstadt üblich",
+        "Ein Posten, der am Ende dazukommt"
+      ],
+      "correta": 1,
+      "explica": "Die Preise sind frei, der Aushang ist die Pflicht. Sie wählen ebenso einen Platz wie ein Getränk."
+    },
+    {
+      "pergunta": "Ein Café nimmt Karte erst ab zehn Euro. Ist das erlaubt?",
+      "opcoes": [
+        "Nein, Karten müssen immer angenommen werden",
+        "Ja, wenn der Mindestbetrag vorher und sichtbar genannt ist",
+        "Nur bei ausländischen Karten",
+        "Nur nach 20 Uhr"
+      ],
+      "correta": 1,
+      "explica": "Es besteht überhaupt keine Pflicht, Karte zu nehmen. Ein Mindestbetrag ist in Ordnung, wenn er sichtbar angeschlagen ist — und Bargeld in Euro kann nie abgelehnt werden."
+    },
+    {
+      "pergunta": "Wo Bedienung berechnet wird, ist der ausgehängte Preis:",
+      "opcoes": [
+        "Ohne sie, sie kommt am Ende dazu",
+        "Mit ihr, und es muss «service compris» mit dem Satz dastehen",
+        "Von Kellner zu Kellner verschieden",
+        "Nur an der Theke inklusive"
+      ],
+      "correta": 1,
+      "explica": "Die Zahl auf der Tafel ist die Zahl, die Sie zahlen. Was obendrauf kommt, ist freiwillig, und kein Prozentsatz regelt es."
+    },
+    {
+      "pergunta": "Wann sagt man c'est ma tournée am besten?",
+      "opcoes": [
+        "Wenn die Gläser schon stehen",
+        "Früh, bevor die Bestellung hineingeht",
+        "Nur bei der letzten Runde",
+        "Nie — es ist anmaßend"
+      ],
+      "correta": 1,
+      "explica": "Früh gesagt ist es eine Geste und regelt den Abend. Spät gesagt wird daraus eine Rechnerei auf dem Gehweg."
+    }
+  ]
+}

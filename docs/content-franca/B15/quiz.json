@@ -1,0 +1,96 @@
+{
+  "id": "q-b15",
+  "nivel": "basico",
+  "titulo": "Quiz — C'est combien, en terrasse — die drei Wörter, die überall hingehen",
+  "subtitulo": "Tresen, Saal und Terrasse — drei Preise, alle ausgehängt",
+  "introAudioKey": "fr-b15-q-i",
+  "introPt": "Eine Reisende bepreist den Stuhl, bevor sie sich hineinsetzt, und trägt dieselben drei Wörter dann an einen Stand und in einen Laden.",
+  "cenario": "Ein Café an einem belebten Platz, danach ein Markt und ein kleiner Laden.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b15-q01",
+      "voz": "target_fr_f",
+      "es": "C'est combien, en terrasse ?",
+      "pt": "Wie viel kostet es auf der Terrasse?",
+      "tts": "C'est combien, en terrasse ?"
+    },
+    {
+      "audioKey": "fr-b15-q02",
+      "voz": "target_fr_m",
+      "es": "En terrasse, quatre euros. Au comptoir, deux.",
+      "pt": "Auf der Terrasse vier Euro. Am Tresen zwei.",
+      "tts": "En terrasse, quatre euros. Au comptoir, deux."
+    },
+    {
+      "audioKey": "fr-b15-q03",
+      "voz": "target_fr_f",
+      "es": "C'est combien, ça ?",
+      "pt": "Wie viel kostet das?",
+      "tts": "C'est combien, ça ?"
+    },
+    {
+      "audioKey": "fr-b15-q04",
+      "voz": "target_fr_m",
+      "es": "Trois euros la barquette. Vous en voulez combien ?",
+      "pt": "Drei Euro die Schale. Wie viele möchten Sie?",
+      "tts": "Trois euros la barquette. Vous en voulez combien ?"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Derselbe Kaffee kostet zwei Euro am Tresen und vier auf der Terrasse. Was ist das?",
+      "opcoes": [
+        "Unzulässig, außer der Kellner warnt Sie vorher",
+        "Zulässig — Preise sind frei, geregelt ist der Aushang",
+        "Ein Touristenaufschlag",
+        "Der Servicezuschlag, der dazukommt"
+      ],
+      "correta": 1,
+      "explica": "Die Karte muss Tresen- und Saalpreis nennen, wenn sie abweichen; die Größe des Abstands ist nicht geregelt."
+    },
+    {
+      "pergunta": "Welche Füllung macht «c'est combien» in Frankreich am wertvollsten?",
+      "opcoes": [
+        "Ein Produkt",
+        "Eine Menge",
+        "Ein Ort — en terrasse",
+        "Ein Wochentag"
+      ],
+      "correta": 2,
+      "explica": "Der Preis ändert sich damit, wo Sie trinken, und an der Tür sagt das niemand an."
+    },
+    {
+      "pergunta": "Was muss vom Gehsteig vor einem Café lesbar sein?",
+      "opcoes": [
+        "Nichts — die Karte liegt immer drinnen",
+        "Die Weinkarte",
+        "Die feste Preisliste, in Zeichen von mindestens 1,5 cm Höhe",
+        "Nur die Öffnungszeiten"
+      ],
+      "correta": 2,
+      "explica": "Kaffee, Bier, Saft, Limonade, Mineralwasser, Aperitif, plat du jour und Sandwich stehen auf dieser Liste."
+    },
+    {
+      "pergunta": "Sie wollen in einem kleinen Laden eine größere Jacke. Was sagen Sie?",
+      "opcoes": [
+        "Vous avez ma taille ?",
+        "Je peux essayer ?",
+        "C'est combien, ça ?",
+        "Je regarde."
+      ],
+      "correta": 0,
+      "explica": "Taille ist die Kleidergröße; die Schuhgröße ist une pointure."
+    },
+    {
+      "pergunta": "Jemand kommt herüber, sobald Sie eintreten, und Sie haben noch nichts entschieden. Was verschafft Ihnen Raum?",
+      "opcoes": [
+        "Nichts sagen und weitergehen",
+        "Merci, je regarde",
+        "C'est combien, au comptoir ?",
+        "Hinausgehen und später wiederkommen"
+      ],
+      "correta": 1,
+      "explica": "Es ist die erwartete Antwort, keine Abfuhr, und meistens kommt je vous en prie zurück."
+    }
+  ]
+}

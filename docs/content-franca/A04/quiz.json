@@ -1,0 +1,96 @@
+{
+  "id": "q-a04",
+  "nivel": "avancado",
+  "titulo": "Quiz — Der alte Streit",
+  "subtitulo": "Eine Linie, die unter allem verläuft",
+  "introAudioKey": "fr-a04-q-i",
+  "introPt": "Eine Reisende fragt, statt zu ranken.",
+  "cenario": "Ein Gespräch über die Hauptstadt und den ganzen Rest.",
+  "dialogo": [
+    {
+      "audioKey": "fr-a04-q01",
+      "voz": "target_fr_m",
+      "es": "Paris, c'est pas la France. Ça, il faut le savoir.",
+      "pt": "Paris ist nicht Frankreich. Das muss man wissen.",
+      "tts": "Paris, c'est pas la France. Ça, il faut le savoir."
+    },
+    {
+      "audioKey": "fr-a04-q02",
+      "voz": "target_fr_m",
+      "es": "Je suis monté à Paris à vingt ans. Je suis redescendu à quarante.",
+      "pt": "Mit zwanzig bin ich nach Paris hinaufgezogen. Mit vierzig wieder herunter.",
+      "tts": "Je suis monté à Paris à vingt ans. Je suis redescendu à quarante."
+    },
+    {
+      "audioKey": "fr-a04-q03",
+      "voz": "target_fr_f",
+      "es": "Je ne connais pas assez pour juger.",
+      "pt": "Ich kenne es nicht gut genug, um zu urteilen.",
+      "tts": "Je ne connais pas assez pour juger."
+    },
+    {
+      "audioKey": "fr-a04-q04",
+      "voz": "target_fr_f",
+      "es": "Ici, on m'a très bien reçu.",
+      "pt": "Hier hat man mich sehr gut aufgenommen.",
+      "tts": "Ici, on m'a très bien reçu."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Die Sonntagsöffnung in zwölf Zonen von Paris gibt es, weil:",
+      "opcoes": [
+        "Sonntagshandel landesweit unbeschränkt ist",
+        "Sonntagsruhe die Regel ist und das Gesetz von 2015 Tourismuszonen als Ausnahme schuf",
+        "Die Pariser Läden ausgestiegen sind",
+        "Es ein örtlicher Brauch ohne Rechtsgrundlage ist"
+      ],
+      "correta": 1,
+      "explica": "Loi 2015-990 schuf die Zones Touristiques Internationales; Paris hat zwölf davon."
+    },
+    {
+      "pergunta": "«Je suis monté à Paris, je suis redescendu» ist meist:",
+      "opcoes": [
+        "Eine parteipolitische Position",
+        "Eine Familien- und Berufsgeschichte",
+        "Ein Witz",
+        "Eine Erdkundestunde"
+      ],
+      "correta": 1,
+      "explica": "Die Verben tragen weit öfter eine Laufbahn, eine Miete und eine Rückkehr als eine politische Ansicht."
+    },
+    {
+      "pergunta": "Der Zug, der das Gespräch beendet, ist:",
+      "opcoes": [
+        "Zu fragen, was sich hier verändert hat",
+        "Die Hauptstadt gegen den Rest des Landes zu ranken",
+        "Zu sagen, dass man zu wenig kennt",
+        "Zu sagen, dass man hier gut aufgenommen wurde"
+      ],
+      "correta": 1,
+      "explica": "Ein Urteil aus dem Mund eines Gastes kostet Sie den Rest des Abends."
+    },
+    {
+      "pergunta": "«Je ne connais pas assez pour juger» wird gehört als:",
+      "opcoes": [
+        "Ausweichen",
+        "Respekt, und als genaue Antwort",
+        "Unhöflichkeit",
+        "Zustimmung"
+      ],
+      "correta": 1,
+      "explica": "Nach drei Wochen im Land ist es schlicht wahr, und es liest sich als Respekt."
+    },
+    {
+      "pergunta": "Was kann man immer gefahrlos sagen?",
+      "opcoes": [
+        "Die Provinz ist freundlicher als Paris",
+        "Paris läuft besser als alles andere",
+        "Hier hat man mich sehr gut aufgenommen",
+        "Keine der beiden Hälften des Landes läuft"
+      ],
+      "correta": 2,
+      "explica": "Erfahrung ist überall erlaubt; der Vergleich ist der Teil, der kostet."
+    }
+  ]
+}

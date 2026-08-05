@@ -1,0 +1,96 @@
+{
+  "id": "q-b01",
+  "nivel": "basico",
+  "titulo": "Quiz — Weniger sagen, als da steht",
+  "subtitulo": "Stumme Endungen, stummes h, ou gegen u, Nasale und der Ort des Schlags",
+  "introAudioKey": "fr-b01-q-i",
+  "introPt": "Eine Reisende bestellt an einem französischen Tresen und fragt danach nach dem hinteren Teil des Raums.",
+  "cenario": "Ein Café-Tresen am Morgen, eine Person bedient.",
+  "dialogo": [
+    {
+      "audioKey": "fr-b01-q01",
+      "voz": "target_fr_f",
+      "es": "Bonjour, un café, s'il vous plaît.",
+      "pt": "Guten Tag, einen Kaffee, bitte.",
+      "tts": "Bonjour, un café, s'il vous plaît."
+    },
+    {
+      "audioKey": "fr-b01-q02",
+      "voz": "target_fr_m",
+      "es": "Et avec ceci ? Un croissant ?",
+      "pt": "Und dazu? Ein Croissant?",
+      "tts": "Et avec ceci ? Un croissant ?"
+    },
+    {
+      "audioKey": "fr-b01-q03",
+      "voz": "target_fr_f",
+      "es": "Oui. C'est tout, merci.",
+      "pt": "Ja. Das ist alles, danke.",
+      "tts": "Oui. C'est tout, merci."
+    },
+    {
+      "audioKey": "fr-b01-q04",
+      "voz": "target_fr_m",
+      "es": "Les toilettes sont au fond, à droite.",
+      "pt": "Die Toiletten sind hinten, rechts.",
+      "tts": "Les toilettes sont au fond, à droite."
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Wie endet beaucoup?",
+      "opcoes": [
+        "Mit einem p-Laut",
+        "Ohne jeden Konsonanten — bo-KU",
+        "Mit einem k-Laut",
+        "Mit einem weichen b"
+      ],
+      "correta": 1,
+      "explica": "Der Endkonsonant von petit, beaucoup, trop und vous steht da, gesprochen wird er nicht. Kappen Sie ihn."
+    },
+    {
+      "pergunta": "Was passiert mit dem h in hôtel?",
+      "opcoes": [
+        "Es wird leicht gehaucht",
+        "Es ist stumm — o-TEL",
+        "Es wird zu einem k-Laut",
+        "Es verdoppelt das o"
+      ],
+      "correta": 1,
+      "explica": "Das französische h wird nie gesprochen, auch nicht in hôtel und heure. Der Buchstabe steht nur auf dem Schild."
+    },
+    {
+      "pergunta": "Worin unterscheiden sich tout und tu?",
+      "opcoes": [
+        "Gar nicht, sie klingen gleich",
+        "Zwei Vokale — ou ist u, das französische u ist Ihr ü",
+        "Nur der Akzent verschiebt sich",
+        "Tu ist der Plural"
+      ],
+      "correta": 1,
+      "explica": "Beide Laute haben Sie im Deutschen, das ist der Startvorteil. Nur vermischen dürfen Sie sie nicht: dessous und dessus sind zwei verschiedene Wörter."
+    },
+    {
+      "pergunta": "Was machen Sie mit dem n am Ende von vin, pain und bon?",
+      "opcoes": [
+        "Deutlich aussprechen",
+        "Nicht sprechen — der ganze Vokal geht stattdessen durch die Nase",
+        "Zu einem m machen",
+        "Nur vor einer Pause sprechen"
+      ],
+      "correta": 1,
+      "explica": "Das n auf dem Papier ist eine Anweisung für den Vokal. Danach hört das Wort einfach auf — kein ng am Ende."
+    },
+    {
+      "pergunta": "Wo landet der Schlag in einer französischen Phrase?",
+      "opcoes": [
+        "Auf einer betonten Silbe in jedem einzelnen Wort",
+        "Auf der letzten Silbe der ganzen rhythmischen Gruppe",
+        "Auf dem ersten Wort des Satzes",
+        "Dort, wo ein Akzentzeichen geschrieben steht"
+      ],
+      "correta": 1,
+      "explica": "Flach über die Gruppe gleiten, dann einmal am Ende tippen. Der deutsche Wortakzent ist genau die Gewohnheit, die hier weichen muss."
+    }
+  ]
+}

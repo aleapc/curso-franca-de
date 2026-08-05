@@ -1,0 +1,96 @@
+{
+  "id": "q-i10",
+  "nivel": "intermediario",
+  "titulo": "Quiz — Geld hier",
+  "subtitulo": "Fünf Fragen, alle von etwas beantwortet, das an einer Wand hängt",
+  "introAudioKey": "fr-i10-q-i",
+  "introPt": "Eine Reisende liest den Aufkleber an der Kasse, zahlt ohne Aufhebens bar und bittet um den Bon.",
+  "cenario": "Eine kleine Bäckerei um acht Uhr morgens, danach ein Tisch beim Mittagessen.",
+  "dialogo": [
+    {
+      "audioKey": "fr-i10-q01",
+      "voz": "target_fr_m",
+      "es": "La carte, c'est à partir de quinze euros.",
+      "pt": "Karte geht ab fünfzehn Euro.",
+      "tts": "La carte, c'est à partir de quinze euros."
+    },
+    {
+      "audioKey": "fr-i10-q02",
+      "voz": "target_fr_f",
+      "es": "Ah d'accord. Alors je paie en espèces.",
+      "pt": "Ah, gut. Dann zahle ich bar.",
+      "tts": "Ah d'accord. Alors je paie en espèces."
+    },
+    {
+      "audioKey": "fr-i10-q03",
+      "voz": "target_fr_f",
+      "es": "Le service est compris ?",
+      "pt": "Ist der Service inbegriffen?",
+      "tts": "Le service est compris ?"
+    },
+    {
+      "audioKey": "fr-i10-q04",
+      "voz": "target_fr_m",
+      "es": "Oui, service compris. Je vous fais le ticket ?",
+      "pt": "Ja, Service inbegriffen. Mache ich Ihnen den Bon?",
+      "tts": "Oui, service compris. Je vous fais le ticket ?"
+    }
+  ],
+  "perguntas": [
+    {
+      "pergunta": "Darf ein Laden in Frankreich einen Mindestbetrag für Kartenzahlung festlegen?",
+      "opcoes": [
+        "Nein — Karten müssen bei jedem Betrag angenommen werden",
+        "Ja, sofern es vorher und sichtbar angekündigt ist",
+        "Nur über fünfzig Euro",
+        "Nur in Läden außerhalb der großen Städte"
+      ],
+      "correta": 1,
+      "explica": "Es besteht überhaupt keine Pflicht, Karten anzunehmen. Die Pflicht ist, die Bedingung sichtbar auszuhängen."
+    },
+    {
+      "pergunta": "Das CB-Logo klebt an der Tür und nirgends steht ein Mindestbetrag. Was heißt das?",
+      "opcoes": [
+        "Nichts — das Logo ist Dekoration",
+        "Ein Mindestbetrag von zehn Euro gilt stillschweigend",
+        "Der Laden hat sich verpflichtet, die Karte für jeden Betrag zu nehmen",
+        "Karten werden nur für Lebensmittel genommen"
+      ],
+      "correta": 2,
+      "explica": "Das Logo zu zeigen, ohne eine Bedingung zu nennen, ist die Zusage selbst."
+    },
+    {
+      "pergunta": "Wie hoch ist die Bargeldgrenze für die Zahlung an ein Geschäft, wenn man in Frankreich steuerlich nicht ansässig ist?",
+      "opcoes": [
+        "1 000 Euro",
+        "3 000 Euro",
+        "15 000 Euro, wenn die Nichtansässigkeit nachgewiesen ist",
+        "Es gibt keine Grenze"
+      ],
+      "correta": 2,
+      "explica": "Artikel D112-3 setzt 1 000 Euro für steuerlich in Frankreich Ansässige und 15 000 für nachgewiesene Nichtansässige beim privaten Kauf."
+    },
+    {
+      "pergunta": "Wie viel legen Sie auf eine Restaurantrechnung für den Service drauf?",
+      "opcoes": [
+        "Fünfzehn Prozent",
+        "Zehn Prozent",
+        "Nichts — der Service steckt per Gesetz im ausgezeichneten Preis; Aufrunden ist freiwillige Wärme",
+        "Was das Terminal vorschlägt"
+      ],
+      "correta": 2,
+      "explica": "Der Preis auf der Tafel ist der Preis, den Sie zahlen. Keine offizielle Quelle nennt einen Prozentsatz, weil es keine Norm gibt."
+    },
+    {
+      "pergunta": "Sie haben einen Schal gekauft und wollen den Beleg. Was tun Sie?",
+      "opcoes": [
+        "Warten — er wird automatisch gedruckt",
+        "Danach fragen: seit August 2023 wird der Kassenbon nur auf Verlangen gedruckt",
+        "Das Display fotografieren",
+        "Bei der Bank nachfragen"
+      ],
+      "correta": 1,
+      "explica": "Läden drucken auf Verlangen. Restaurants und Hotels sind die Ausnahme, dort wird die addition weiterhin für Sie gedruckt."
+    }
+  ]
+}

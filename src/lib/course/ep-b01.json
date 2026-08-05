@@ -92,7 +92,7 @@
         "taxi/destino"
       ],
       "tipo": "responde",
-      "voz": "target_fr_f",
+      "voz": "target_fr_m",
       "promptVoz": "guide_de_m",
       "promptAudioKey": "fr-b01-p03",
       "promptPt": "Sie steigen ins Taxi, die Adresse liegt schon auf dem Handy. Nennen Sie ihm das Ziel. Sprechen Sie jetzt.",
@@ -170,7 +170,7 @@
         "compras/balcao"
       ],
       "tipo": "responde",
-      "voz": "target_fr_f",
+      "voz": "target_fr_m",
       "promptVoz": "guide_de_f",
       "promptAudioKey": "fr-b01-p06",
       "promptPt": "Gleicher Tresen, noch etwas dazu. Bestellen Sie das Gebäck, beide Vokale durch die Nase. Sprechen Sie jetzt.",

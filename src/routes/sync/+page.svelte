@@ -75,12 +75,12 @@
   {:else if estado === 'fora'}
     <h1 class="text-2xl font-extrabold">Fast geschafft 📲</h1>
     <p class="mx-auto mt-2 max-w-sm text-carvao/70">
-      Der Link ging im <b>Browser</b> auf — dein Fortschritt liegt aber in der <b>¡Dime!-App</b> auf
+      Der Link ging im <b>Browser</b> auf — dein Fortschritt liegt aber in der <b>Dites-moi !-App</b> auf
       dem Startbildschirm. Kopier den Code und füg ihn dort ein:
     </p>
     <ol class="mx-auto mt-3 max-w-sm space-y-1 text-left text-sm text-carvao/70">
       <li>1. Tipp unten auf <b>Code kopieren</b></li>
-      <li>2. Öffne die <b>¡Dime!</b>-App auf dem Startbildschirm (am Rechner: die Kursstartseite)</li>
+      <li>2. Öffne die <b>Dites-moi !</b>-App auf dem Startbildschirm (am Rechner: die Kursstartseite)</li>
       <li>3. Unter <b>Sync</b> einfügen und importieren</li>
     </ol>
     <button class="btn-primary mt-4" onclick={copiar}>

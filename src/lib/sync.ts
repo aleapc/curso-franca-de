@@ -63,8 +63,8 @@ export function whatsappUrl(code: string): string {
   // O link abre no NAVEGADOR (não no PWA instalado — storage separado no iOS!),
   // então a mensagem manda também o código puro pra colar dentro do app.
   const text =
-    `📚 *¡Dime!* — mein Fortschritt!\n` +
-    `Kopier den Code und füg ihn in der ¡Dime!-App ein (Start → Sync → Einfügen):\n\n` +
+    `📚 *Dites-moi !* — mein Fortschritt!\n` +
+    `Kopier den Code und füg ihn in der Dites-moi !-App ein (Start → Sync → Einfügen):\n\n` +
     `${code}\n\n` +
     `(oder öffne ${shareUrl(code)} — da wirst du durchgeführt)`;
   return `https://wa.me/?text=${encodeURIComponent(text)}`;

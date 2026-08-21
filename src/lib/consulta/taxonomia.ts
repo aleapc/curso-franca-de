@@ -67,14 +67,14 @@ export const FOLHAS: Folha[] = [
   // roda calibrada para a Alemanha, onde Sie é o default no balcão; na Espanha o
   // default é `tú`. O problema muda de "escolher" para "recalibrar", e o rótulo
   // segue essa mudança. Confirmar ao escrever B02/I02.
-  { id: 'chegar/tu-usted', tile: 'chegar', rotulo: 'Sie ist nicht usted: tú am Tresen' },
+  { id: 'chegar/tu-usted', tile: 'chegar', rotulo: 'Formal or casual, in one line' },
 
   // 2 · mesa
   { id: 'mesa/mesa', tile: 'mesa', rotulo: 'Ein Tisch' },
   { id: 'mesa/carta', tile: 'mesa', rotulo: 'Die Karte' },
   { id: 'mesa/bebida', tile: 'mesa', rotulo: 'Etwas zu trinken' },
   { id: 'mesa/comida', tile: 'mesa', rotulo: 'Essen' },
-  { id: 'mesa/tamanho', tile: 'mesa', rotulo: 'Tapa, ración oder media' },
+  { id: 'mesa/tamanho', tile: 'mesa', rotulo: 'Small plate, full plate or half portion' },
   { id: 'mesa/agua-pao', tile: 'mesa', rotulo: 'Wasser & Brot' },
   { id: 'mesa/conta', tile: 'mesa', rotulo: 'Die Rechnung' },
   { id: 'mesa/errado', tile: 'mesa', rotulo: 'Das habe ich nicht bestellt', reativa: true },
@@ -105,12 +105,12 @@ export const FOLHAS: Folha[] = [
   { id: 'taxi/taximetro', tile: 'taxi', rotulo: 'Taxameter & Preis' },
   { id: 'taxi/parar', tile: 'taxi', rotulo: 'Hier halten / Quittung' },
   { id: 'taxi/locadora', tile: 'taxi', rotulo: 'Der Mietwagenschalter' },
-  { id: 'taxi/estacionar', tile: 'taxi', rotulo: 'Parken & die ZBE-Kamera' },
+  { id: 'taxi/estacionar', tile: 'taxi', rotulo: 'Parking & low-emission zone cameras' },
   { id: 'taxi/errado', tile: 'taxi', rotulo: 'Keine Karte / falsche Richtung', reativa: true },
 
   // 6 · transporte
   { id: 'transporte/bilhete', tile: 'transporte', rotulo: 'Der richtige Fahrschein' },
-  { id: 'transporte/qual-trem', tile: 'transporte', rotulo: 'Metro, cercanías oder Renfe' },
+  { id: 'transporte/qual-trem', tile: 'transporte', rotulo: 'Which train — metro, regional or intercity' },
   { id: 'transporte/plataforma', tile: 'transporte', rotulo: 'Gleis & Zugang' },
   { id: 'transporte/bagagem', tile: 'transporte', rotulo: 'Gepäck & Scanner' },
   { id: 'transporte/placas', tile: 'transporte', rotulo: 'Schilder, die Geld kosten' },
@@ -119,7 +119,7 @@ export const FOLHAS: Folha[] = [
   // 7 · quarto
   { id: 'quarto/checkin', tile: 'quarto', rotulo: 'Check-in' },
   { id: 'quarto/pedir', tile: 'quarto', rotulo: 'Um etwas bitten' },
-  { id: 'quarto/nao-funciona', tile: 'quarto', rotulo: '«No funciona»' },
+  { id: 'quarto/nao-funciona', tile: 'quarto', rotulo: '"It\'s not working"' },
   { id: 'quarto/mala', tile: 'quarto', rotulo: 'Den Koffer dalassen' },
   { id: 'quarto/checkout', tile: 'quarto', rotulo: 'Check-out & die Kurtaxe' },
 
@@ -134,8 +134,8 @@ export const FOLHAS: Folha[] = [
   { id: 'saude/algo-para', tile: 'saude', rotulo: '«Etwas gegen…»' },
   { id: 'saude/receita', tile: 'saude', rotulo: 'Mit oder ohne Rezept' },
   { id: 'saude/minha-alergia', tile: 'saude', rotulo: 'Meine Allergie, mein Medikament' },
-  { id: 'saude/guardia', tile: 'saude', rotulo: 'Farmacia de guardia' },
-  { id: 'saude/112', tile: 'saude', rotulo: '112 & das Krankenhaus', reativa: true },
+  { id: 'saude/guardia', tile: 'saude', rotulo: 'The 24-hour pharmacy' },
+  { id: 'saude/112', tile: 'saude', rotulo: 'Emergency number & the hospital', reativa: true },
 
   // 10 · simpatia — a folha que o G8 protege com um piso de 8 cards.
   // É onde a viagem fica boa, e é exatamente a que a deriva defensiva esvazia:
@@ -163,9 +163,9 @@ export const FOLHAS: Folha[] = [
   { id: 'apuro/roubo', tile: 'apuro', rotulo: 'Ich bin bestohlen worden', reativa: true },
   { id: 'apuro/perdi', tile: 'apuro', rotulo: 'Ich habe etwas / jemanden verloren', reativa: true },
   { id: 'apuro/denuncia', tile: 'apuro', rotulo: 'Polizei & Anzeige', reativa: true },
-  { id: 'apuro/112', tile: 'apuro', rotulo: '112', reativa: true },
+  { id: 'apuro/112', tile: 'apuro', rotulo: 'Emergency number', reativa: true },
   { id: 'apuro/golpes', tile: 'apuro', rotulo: 'Die Maschen, beim Namen', reativa: true },
-  { id: 'apuro/reclamacoes', tile: 'apuro', rotulo: 'Hoja de reclamaciones', reativa: true }
+  { id: 'apuro/reclamacoes', tile: 'apuro', rotulo: 'Filing a complaint', reativa: true }
 ];
 
 // Cards com JANELA DE DATA: aeroporto, fronteira e pré-embarque são eventos de UMA
